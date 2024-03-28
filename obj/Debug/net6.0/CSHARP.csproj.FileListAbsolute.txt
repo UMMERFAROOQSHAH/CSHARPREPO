@@ -1,0 +1,15 @@
+C:\Users\BScIT\source\repos\ummer farooq shah\ummer farooq shah\CSHARP\bin\Debug\net6.0\CSHARP.exe
+C:\Users\BScIT\source\repos\ummer farooq shah\ummer farooq shah\CSHARP\bin\Debug\net6.0\CSHARP.deps.json
+C:\Users\BScIT\source\repos\ummer farooq shah\ummer farooq shah\CSHARP\bin\Debug\net6.0\CSHARP.runtimeconfig.json
+C:\Users\BScIT\source\repos\ummer farooq shah\ummer farooq shah\CSHARP\bin\Debug\net6.0\CSHARP.dll
+C:\Users\BScIT\source\repos\ummer farooq shah\ummer farooq shah\CSHARP\bin\Debug\net6.0\CSHARP.pdb
+C:\Users\BScIT\source\repos\ummer farooq shah\ummer farooq shah\CSHARP\obj\Debug\net6.0\CSHARP.csproj.AssemblyReference.cache
+C:\Users\BScIT\source\repos\ummer farooq shah\ummer farooq shah\CSHARP\obj\Debug\net6.0\CSHARP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BScIT\source\repos\ummer farooq shah\ummer farooq shah\CSHARP\obj\Debug\net6.0\CSHARP.AssemblyInfoInputs.cache
+C:\Users\BScIT\source\repos\ummer farooq shah\ummer farooq shah\CSHARP\obj\Debug\net6.0\CSHARP.AssemblyInfo.cs
+C:\Users\BScIT\source\repos\ummer farooq shah\ummer farooq shah\CSHARP\obj\Debug\net6.0\CSHARP.csproj.CoreCompileInputs.cache
+C:\Users\BScIT\source\repos\ummer farooq shah\ummer farooq shah\CSHARP\obj\Debug\net6.0\CSHARP.dll
+C:\Users\BScIT\source\repos\ummer farooq shah\ummer farooq shah\CSHARP\obj\Debug\net6.0\refint\CSHARP.dll
+C:\Users\BScIT\source\repos\ummer farooq shah\ummer farooq shah\CSHARP\obj\Debug\net6.0\CSHARP.pdb
+C:\Users\BScIT\source\repos\ummer farooq shah\ummer farooq shah\CSHARP\obj\Debug\net6.0\CSHARP.genruntimeconfig.cache
+C:\Users\BScIT\source\repos\ummer farooq shah\ummer farooq shah\CSHARP\obj\Debug\net6.0\ref\CSHARP.dll
