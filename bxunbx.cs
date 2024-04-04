@@ -14,15 +14,10 @@
             System.Console.WriteLine("VALUE TYPE I " +i);
             System.Console.WriteLine("VALUE TYPE B " + B);
             System.Console.WriteLine("VALUE TYPE X " + x);
-
             System.Console.WriteLine("OBJ TYPE O " +o);
 
         }
-    }
-    
-
-
-        
+    }  
     }
 
 

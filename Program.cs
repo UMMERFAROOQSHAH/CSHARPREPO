@@ -1,6 +1,7 @@
 ﻿using exception;
 using boxunbx;
 using loops;
+using genlist;
 namespace CSHARP
 
 {
@@ -11,7 +12,7 @@ namespace CSHARP
             Abc.arry();
             loop.prnt();
             PQR.FUN();
-            //loop.prnst();
+            abc.Genericlist();
         }
     }
 }
